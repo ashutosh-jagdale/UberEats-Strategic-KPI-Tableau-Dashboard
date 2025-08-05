@@ -42,7 +42,7 @@ The dashboard includes the following modules:
 
 ## 🌐 Tableau Public Link
 
-🔗 [View Dashboard on Tableau Public]((https://public.tableau.com/app/profile/ashutosh.jagdale/viz/UberEatsStrategicKPIDashboard/UberEatsDashboard))
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/ashutosh.jagdale/viz/UberEatsStrategicKPIDashboard/UberEatsDashboard)
 
 ## 📌 Key Insights
 
